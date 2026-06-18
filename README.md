@@ -8,13 +8,14 @@ Python
 Streamlit
 Pandas
 Plotly
-Features:
 
+Features:
 Dataset Overview
 Data Cleaning
 KPIs
 Visualizations
 Interactive Filters
+
 How to Run:
 
 Install requirements
